@@ -1,0 +1,9 @@
+personalChat/Configuration/SecurityConfiguration.class
+personalChat/Configuration/AuthenticationProcessingFilter.class
+personalChat/Configuration/UserRepository.class
+personalChat/Configuration/SpringBootAppConfig.class
+personalChat/Configuration/WebSocketConfig.class
+personalChat/Configuration/WebSocketConfig$1.class
+personalChat/Configuration/SocketController.class
+personalChat/Configuration/MyMessage.class
+personalChat/Configuration/User.class
